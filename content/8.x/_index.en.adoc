@@ -1,6 +1,6 @@
 ---
-title: "Administrator Guide"
-weight: 30
+title: "SuiteCRM 8.x Beta"
+weight: 50
 ---
 
 === Table of Contents
